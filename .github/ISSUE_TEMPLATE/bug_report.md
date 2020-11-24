@@ -8,10 +8,19 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--
+Please fill the info below as this makes solving issues so much easier. Thanks
+-->
 
-**To Reproduce**
+**Describe the bug**
+
+<!--
+A clear and concise description of what the bug is.
+-->
+
+
+**To Reproduce:**
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -19,16 +28,30 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
+
+<!--
 A clear and concise description of what you expected to happen.
+-->
+
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Platform Information (please complete the following information):**
- - OS: [e.g. Windows]
- - Mono Version: [e.g. Mono 5.8] (Only needed under Linux and Mac, found under System -> Status)
- - Browser and Version [e.g. chrome, safari] (Only needed for UI issues)
- - Radarr Version [e.g. 3.0.0.2956]
+<!--
+If applicable, add screenshots to help explain your problem.
+-->
+
+
+**Platform Information**
+
+ - Radarr Version: <!-- [e.g. 3.0.0.2956] -->
+ - OS: <!-- [e.g. Windows] -->
+ - Mono version: <!-- [e.g. Mono 5.8] (Only needed under Linux and Mac, found under System -> Status) -->
+ - Browser and version: <!-- [e.g. Chrome or Safari] (Only needed for UI issues) -->
 
 **Debug Logs**
-Turn on debug logs under Settings -> General and wait for the bug to occur again. **Upload the full log file here (or another site and link it). Issues will be closed, if they do not include this!**
+
+<!--
+Turn on debug logs under Settings -> General and wait for the bug to occur again.
+Upload the full log file here (or another site and link it). 
+Issues will be closed, if they do not include this!
+-->
